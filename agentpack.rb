@@ -1,5 +1,5 @@
 class Agentpack < Formula
-  desc "Pin GitHub-hosted skills and plugin directories for agent harnesses"
+  desc "Pin and install skills and plugins for coding agents"
   homepage "https://github.com/olegpustovit/agentpack"
   url "https://github.com/olegpustovit/agentpack/archive/refs/tags/v0.3.0.tar.gz"
   sha256 "e8fa2ba99d6f2631b4351aa02df9985f4d380e707ee3097e0a0774ad1b004088"

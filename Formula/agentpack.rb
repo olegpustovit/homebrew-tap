@@ -1,5 +1,5 @@
 class Agentpack < Formula
-  desc "The package manager for AI coding agents — pin, resolve, and sync skills & plugins across Claude Code, Cursor, OpenCode, and Codex"
+  desc "Pin and install skills and plugins for coding agents"
   homepage "https://github.com/olegpustovit/agentpack"
   version "0.3.12"
   if OS.mac?

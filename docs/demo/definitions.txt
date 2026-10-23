@@ -1,0 +1,18 @@
+homebrew-tap: checked-in package definitions
+
+Casks/agentpack.rb
+  version: 0.7.6
+  description: Pin and stage agent skills and plugins reproducibly
+
+Formula/agentpack.rb
+  version: 0.3.12
+  description: Pin and install skills and plugins for coding agents
+
+agentpack.rb
+  version: 0.3.0.tar.gz
+  description: Pin and install skills and plugins for coding agents
+
+rssdude.rb
+  version: 0.2.1
+  description: Local-first RSS feed reader and content curation CLI
+
